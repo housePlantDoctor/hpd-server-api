@@ -1,0 +1,8 @@
+-f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
+torch_nightly
+torchvision
+python-multipart
+Flask
+mysql-connector
+Pillow
+numpy
